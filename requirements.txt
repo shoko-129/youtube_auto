@@ -1,0 +1,14 @@
+# YouTube Automation Project Dependencies
+
+# Core dependencies
+pandas>=1.5.0
+pathvalidate>=2.5.0
+yt-dlp>=2023.1.6
+
+# YouTube API dependencies (for upload_videos.py)
+google-api-python-client>=2.70.0
+google-auth-httplib2>=0.1.0
+google-auth-oauthlib>=0.8.0
+
+# Optional but recommended
+openpyxl>=3.0.0  # For better Excel file support

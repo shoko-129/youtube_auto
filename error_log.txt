@@ -1,0 +1,2 @@
+2025-07-16 10:14:32,242 - INFO - URL already downloaded previously, skipping: https://www.youtube.com/shorts/WtK-YR5kIIw
+2025-07-16 10:15:02,045 - INFO - Successfully downloaded: Importance of Wife Don’t misunderstand wife #trending #funny #love #family #friends #gaming #comedy
