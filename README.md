@@ -238,6 +238,20 @@ youtube_automation/
 
 **Important:** The `youtube_credentials.json` file is not included in this repository for security reasons. You need to create it yourself following the YouTube API setup instructions above.
 
+### 🔧 **Setting up credentials**
+
+1. **Copy the template file:**
+   ```bash
+   cp youtube_credentials.json.template youtube_credentials.json
+   ```
+
+2. **Edit the file** and replace the placeholder values with your actual Google OAuth credentials:
+   - Replace `YOUR_CLIENT_ID_HERE` with your actual client ID
+   - Replace `YOUR_PROJECT_ID_HERE` with your actual project ID
+   - Replace `YOUR_CLIENT_SECRET_HERE` with your actual client secret
+
+3. **Never commit this file** - it's already in `.gitignore` to prevent accidental commits
+
 ## A few important notes
 
 - **Be respectful:** Only download videos you have permission to download
