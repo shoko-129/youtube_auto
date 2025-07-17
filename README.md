@@ -1,5 +1,5 @@
 # YouTube Video Downloader & Uploader
-**Version 1.1.0**
+**Version 1.0.0**
 
 Hey there! 👋
 
@@ -276,4 +276,4 @@ You now have a super easy way to download YouTube videos in bulk. Whether you're
 **Happy downloading!** 📺✨
 
 ---
-*Version 1.1.0 - Made with ❤️ for people who just want to download some videos without the hassle*
+*Version 1.0.0 - Made with ❤️ for people who just want to download some videos without the hassle*
